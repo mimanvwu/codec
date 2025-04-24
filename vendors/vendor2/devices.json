@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "devices": [
+        {
+            "id": "model1",
+            "name": "model1",
+            "description": "Sensor 1",
+            "catalog": "model",
+            "sn": "6725",
+            "deveui": "24e124725",
+            "device_profile": ["ClassA-OTAA"],
+            "codec": "vendors/vender2/model1/model1-codec.json",
+            "decoder_script": "vendors/vender2/model1/model1-decoder.js",
+            "encoder_script": "vendors/vender2/model1/model1-encoder.js"
+        },
+        {
+            "id": "model2",
+            "name": "model2",
+            "description": "Sensor 2",
+            "catalog": "model",
+            "sn": "6454",
+            "deveui": "24e124454",
+            "device_profile": ["ClassA-OTAA"],
+            "codec": "vendors/vender2/model2/model2-codec.json",
+            "decoder_script": "vendors/vender2/model2/model2-decoder.js",
+            "encoder_script": "vendors/vender2/model2/model2-encoder.js"
+        }
+    ]
+}

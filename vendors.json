@@ -8,6 +8,16 @@
             "description": "Make Sensing Matter",
             "oui": "24e124",
             "devices": "vendors/milesight-iot/devices.json"
+        },
+        {
+            "id": "vendor2",
+            "name": "Vendor",
+            "logo": "vendors/vender2/logo.png",
+            "website": "https://www.vender2.com",
+            "description": "Make Sensing Matter",
+            "oui": "24e125",
+            "devices": "vendors/vendor2/devices.json"
         }
+    ]
     ]
 }
